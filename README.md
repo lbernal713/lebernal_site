@@ -1,1 +1,1 @@
-Contents for my portfolio website lebernal.me
+Contents for my portfolio website https://lbernal713.github.io/lebernal_site/
